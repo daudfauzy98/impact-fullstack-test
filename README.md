@@ -5,10 +5,10 @@ This project is using `PostgreSQL` for the database. I've included the database 
 ### How to Run The Project
 
 #### Backend
-`go run .`
+`go run .`<br>
 The service is running at port 8000
 
 #### Frontend
 * `npm install`
-* `npm run start`
+* `npm run start`<br>
 The service is running at port 8001
