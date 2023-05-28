@@ -10,5 +10,5 @@ The service is running at port 8000
 
 #### Frontend
 * `npm install`
-* `npm run start`<br>
-The service is running at port 8001
+* `npm run start`
+<br>The service is running at port 8001
