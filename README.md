@@ -5,9 +5,7 @@ This project is using `PostgreSQL` for the database. I've included the database 
 ### How to Run The Project
 
 #### Backend
-`go run .`<br>
-The service is running at port 8000
+Enter `go run .` command. The service is running at port 8000
 
 #### Frontend
-First enter `npm install` command, and then enter `npm run start` command
-<br>The service is running at port 8001
+First enter `npm install` command, and then enter `npm run start` command. The service is running at port 8001
