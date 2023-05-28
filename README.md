@@ -9,7 +9,5 @@ This project is using `PostgreSQL` for the database. I've included the database 
 The service is running at port 8000
 
 #### Frontend
-* `npm install`
-* `npm run start`
-
+First enter `npm install` command, and then enter `npm run start` command
 <br>The service is running at port 8001
